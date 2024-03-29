@@ -1,4 +1,4 @@
-# Robust Spam Detection System with Count Vectorizer and Machine Learning Algorithms
+#  Spam Detection System with Count Vectorizer and Machine Learning Algorithms
 
 ##  Overview:
 This project is centered around the development of a robust spam detection system utilizing Count Vectorizer and various machine learning 
